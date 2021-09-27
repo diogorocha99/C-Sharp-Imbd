@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BO.Filme">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAQAgAAAAEJAAYACQAGAAAAAkAAAArA=</HashCode>
+      <FileName>Filme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BO.Serie">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QADEAEAIJAAACAAAgABAQAAQIAAAAKAAAAAkQAAQBiA=</HashCode>
+      <FileName>Serie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BO.Utilizador">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAMAAAABAAAAAAgQAAAAEAAAAAAAACAAAAAgAAAiA=</HashCode>
+      <FileName>Utilizador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="BO.TIPOFILME">
+    <Position X="1.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAADABAAAAAA=</HashCode>
+      <FileName>Filme.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BO.TIPOSERIE">
+    <Position X="3.25" Y="6.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAADABAAAAAA=</HashCode>
+      <FileName>Serie.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

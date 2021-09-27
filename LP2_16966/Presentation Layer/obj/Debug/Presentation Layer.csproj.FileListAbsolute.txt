@@ -1,0 +1,2 @@
+C:\Users\Diogo Rocha\Desktop\16966_LP2\LP2_16966\Presentation Layer\obj\Debug\Presentation Layer.csprojAssemblyReference.cache
+C:\Users\Diogo Rocha\Desktop\16966_LP2\LP2_16966\Presentation Layer\obj\Debug\Presentation Layer.csproj.CoreCompileInputs.cache

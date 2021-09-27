@@ -1,0 +1,4 @@
+D:\2 ano\LP2\LP2_16966\LP2_16966\obj\Debug\Business Objects.csprojAssemblyReference.cache
+D:\2 ano\LP2\LP2_16966\LP2_16966\obj\Debug\Business Objects.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Rocha\Desktop\16966_LP2\LP2_16966\LP2_16966\obj\Debug\Business Objects.csprojAssemblyReference.cache
+C:\Users\Diogo Rocha\Desktop\16966_LP2\LP2_16966\LP2_16966\obj\Debug\Business Objects.csproj.CoreCompileInputs.cache
